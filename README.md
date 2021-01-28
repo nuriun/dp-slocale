@@ -1,3 +1,7 @@
+# dp-slocalie cli tool
+
+[![npm](https://img.shields.io/npm/v/dp-slocale.svg?maxAge=2592000)](https://www.npmjs.com/package/dp-slocale)
+
 ##### Desription
 This CLI tool has been developed to find and process project-specific localization methods in dpeurasia e-commerce web applications. It is completely useless for another project unless a similar method is used.
 
