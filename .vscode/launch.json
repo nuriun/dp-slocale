@@ -12,7 +12,6 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/index.js",
-            "args": ["-d", "../DPEurasia-FE-RU", "-n", "https://fe.dominospizza.ru/api/localization?Localeid=RU"]
         }
     ]
 }
