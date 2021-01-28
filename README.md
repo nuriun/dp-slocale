@@ -1,4 +1,4 @@
-# dp-slocalie cli tool
+# dp-slocale cli tool
 
 [![npm](https://img.shields.io/npm/v/dp-slocale.svg?maxAge=2592000)](https://www.npmjs.com/package/dp-slocale)
 
