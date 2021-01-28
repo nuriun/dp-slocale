@@ -3,7 +3,7 @@ function getOnlyNewTempalte(_path, _folders, localizationsFromDb, localizationsF
 
     Generated with dp-slocale@1.0.0
 
-    ##################### NEW LOCALIZATONS KEY #####################
+    ##################### NEW LOCALIZATON KEYS #####################
     
     Export Date: ${new Date()}
     Parent path: ${_path}
